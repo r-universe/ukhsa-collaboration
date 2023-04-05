@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PHEindicatormethods"]
+	path = PHEindicatormethods
+	url = https://github.com/ukhsa-collaboration/pheindicatormethods
+	shallow = true
+	registered = true
